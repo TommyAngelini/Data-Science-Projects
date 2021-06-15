@@ -1,4 +1,4 @@
-Entity,Code,Year,Per capita CO2 emissions,GDP per capita,"Total population (Gapminder, HYDE & UN)",Continent
+Entity,Code,Year,PerCapitaCO2Emissions,GDPPerCapita,TotalPop,Continent
 Afghanistan,AFG,1950,0.010871,1156.0,7752000.0,
 Afghanistan,AFG,1951,0.011684,1170.0,7840000.0,
 Afghanistan,AFG,1952,0.011542,1189.0,7936000.0,
