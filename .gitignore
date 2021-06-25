@@ -3,3 +3,8 @@ GDPVersusEmissions/Data/co2-emissions-vs-gdp.csv
 GDPVersusEmissions/Data/CO2_Data.csv
 GDPVersusEmissions/Data/GDP_Data.csv
 GDPVersusEmissions/Data/energy.csv
+Projects/ClimateChangePredictions/GreenhouseGasInventoryData/greenhouse_gas_inventory_data.csv
+Projects/ClimateChangePredictions/CWP_Data/scenarios.csv
+Projects/ClimateChangePredictions/CWP_Data/models.csv
+Projects/ClimateChangePredictions/CWP_Data/emission_pathways.csv
+Projects/ClimateChangePredictions/EarthSurfaceTempData/GlobalLandTemperaturesByCountry.csv
