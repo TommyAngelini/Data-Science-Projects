@@ -2,13 +2,13 @@ GDPVersusEmissions/Data/co2-emissions-vs-gdp.csv
 GDPVersusEmissions/Data/CO2_Data.csv
 GDPVersusEmissions/Data/GDP_Data.csv
 GDPVersusEmissions/Data/energy.csv
-Projects/ClimateChangePredictions/GreenhouseGasInventoryData/greenhouse_gas_inventory_data.csv
-Projects/ClimateChangePredictions/CWP_Data/scenarios.csv
-Projects/ClimateChangePredictions/CWP_Data/models.csv
 Projects/ClimateChangePredictions/CWP_Data/emission_pathways.csv
+Projects/ClimateChangePredictions/CWP_Data/models.csv
+Projects/ClimateChangePredictions/CWP_Data/scenarios.csv
+Projects/ClimateChangePredictions/GreenhouseGasInventoryData/greenhouse_gas_inventory_data.csv
 Projects/ClimateChangePredictions/EarthSurfaceTempData/GlobalLandTemperaturesByCountry.csv
+Tableau Visualizations/2. COVID-19 Vaccinations in the USA/Data/countyElectionReturns.csv
+Tableau Visualizations/2. COVID-19 Vaccinations in the USA/Data/vaxDataCleaned.csv
 Tableau Visualizations/2. COVID-19 Vaccinations in the USA/Data/statePopulations.csv
 Tableau Visualizations/2. COVID-19 Vaccinations in the USA/Data/electionsDataCleaned.csv
 Tableau Visualizations/2. COVID-19 Vaccinations in the USA/Data/dailyCovidVaccinations.csv
-Tableau Visualizations/2. COVID-19 Vaccinations in the USA/Data/countyElectionReturns.csv
-Tableau Visualizations/2. COVID-19 Vaccinations in the USA/Data/vaxDataCleaned.csv
