@@ -1,4 +1,3 @@
-﻿# GDP vs. CO2 Emissions - Regression
 ![Thumbnail](./Images/thumbnail.jpg)
 # Full Project Report
 [Follow this link to the final report on this project.](https://tomasangelini.com/gdpvsco2page.html)     
