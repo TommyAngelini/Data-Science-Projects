@@ -8,7 +8,9 @@ For ease of navigation, I've provided a table of contents below to get straight 
 **[GDP per capita vs. CO2 Emissions per capita - A Regression Project](https://github.com/TommyAngelini/Data-Science-Projects/tree/main/Projects/GDPVersusEmissions)**
 - [Tableau Visualization](https://public.tableau.com/app/profile/tomas.angelini/viz/GDPvsCO2EmissionsbyCountry/CountryGDPvs_CO2EmissionsDashboard)
 - [Data Source](https://ourworldindata.org/grapher/co2-emissions-vs-gdp)
+
 **[Fashion Image Classification Using PyTorch](https://github.com/TommyAngelini/Data-Science-Projects/tree/main/Projects/Image%20Classification)**
+- [Data Source](https://github.com/zalandoresearch/fashion-mnist)
 
 ## Tableau Visualizations
 1. **[GDP per capita vs. CO2 Emissions per capita Viz](https://github.com/TommyAngelini/Data-Science-Projects/tree/main/Tableau%20Visualizations/1.%20GDP%20vs.%20CO2)**
