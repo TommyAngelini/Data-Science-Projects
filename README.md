@@ -16,7 +16,7 @@ For ease of navigation, I've provided a table of contents below to get straight 
 	- [Tableau Link](https://public.tableau.com/app/profile/tomas.angelini/viz/USACOVID-19VaccinationDashboard/Dashboard1)
 
 ## Courses
-**[Data Science with Python on Udemy](https://github.com/TommyAngelini/Data-Science-Projects/tree/main/Courses/Data%20Science%20With%20Python%20Udemy)**
+**[Data Science with Python on Udemy](https://github.com/TommyAngelini/Data-Science-Projects/tree/main/Courses/Data%20Science%20With%20Python%20Udemy)** <br>
 **[Deep Learning with PyTorch](https://github.com/TommyAngelini/Data-Science-Projects/tree/main/Courses/Deep%20Learning%20with%20Pytorch)**
 
 
