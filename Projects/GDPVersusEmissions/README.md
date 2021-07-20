@@ -28,7 +28,6 @@ This project seeks to investigate the correlation in countries' GDPs with their 
 	- Residual Plots
 
 ## Project Links
-- [Github Repo of this Project](https://github.com/TommyAngelini/Data-Science-Projects/tree/main/Projects/GDPVersusEmissions)
 - [Tableau Visualization](https://public.tableau.com/app/profile/tomas.angelini/viz/GDPvsCO2EmissionsbyCountry/CountryGDPvs_CO2EmissionsDashboard)
 - [Data Source](https://ourworldindata.org/grapher/co2-emissions-vs-gdp)
 
